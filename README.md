@@ -7,3 +7,5 @@ This document aims to guide on a best practice process to obtain inputs into def
 This Repository contains the working spreadsheets to aid your weighted scoring analysis of your SAP on Azure Region Strategy.
 
 NOTE: The working sheet requires manual updates. This is simply an example, and there are many gifted people that could build on this and automate calculations and counts a bit better.
+
+To Access the example spreadsheet, click the file name 'Region Evaluation Analysis Model v1.0.xlsx' and on the next page, a download button will be visible.
